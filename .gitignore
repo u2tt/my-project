@@ -64,3 +64,4 @@ secrets/
 *.sqlite
 *.sqlite3
 *.db
+.Rproj.user

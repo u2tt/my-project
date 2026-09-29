@@ -2,5 +2,11 @@
 name = "Rlaguage"
 
 [dependencies]
+Rmpfr = "*"
+brms = "*"
+cmdfun = "*"
 dplyr = "*"
 ggplot2 = "*"
+sf = "*"
+tidymodels = "*"
+tidyverse = "*"
